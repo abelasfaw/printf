@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * update_char_count- updates number of char printed
+ * update_char_count- updates number of char printed by num
  * @count_ptr: pointer to character counting variable
  * @num: number of chars printed
  * Return: void
