@@ -1,0 +1,6 @@
+man page for _printf fucntion
+supports the following special characters
+%c
+%s
+%d
+%i
