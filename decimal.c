@@ -121,6 +121,7 @@ void print_decimal(int num, int *char_count_ptr)
 		len = num_len(num);
 		str = convert_decimal(num, len);
 		print_reverse(str, len, char_count_ptr);
+		free(str);
 	}
 
 }
